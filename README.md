@@ -7,6 +7,7 @@
 - krypton: 0.2.3
 - ferritecore: 6.0.1
 - lootr: 1.20-0.7.35.86
+- Terralith: 2.5.4
 
 ## Industrialization
 
