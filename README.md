@@ -14,5 +14,6 @@
 
 - Create: 6.0.8.0
 - Modern-Industrialization: 1.8.6
+  - Cloth Config API:11.1.136
 - appliedenergistics2: 15.4.10
 
