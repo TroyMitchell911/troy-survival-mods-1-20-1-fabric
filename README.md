@@ -17,4 +17,5 @@
 - Modern-Industrialization: 1.8.6
   - Cloth Config API:11.1.136
 - appliedenergistics2: 15.4.10
+- FarmersDelight: 2.4.1
 
