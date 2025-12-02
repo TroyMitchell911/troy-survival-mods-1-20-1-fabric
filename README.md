@@ -9,6 +9,7 @@
 - lootr: 1.20-0.7.35.86
 - Terralith: 2.5.4
 - YUNG
+- emi: 1.1.22
 
 ## Industrialization
 
