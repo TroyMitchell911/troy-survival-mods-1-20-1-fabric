@@ -19,3 +19,7 @@
 - appliedenergistics2: 15.4.10
 - FarmersDelight: 2.4.1
 
+## Asserts
+
+- iris: 1.7.6
+
