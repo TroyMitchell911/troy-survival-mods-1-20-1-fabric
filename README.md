@@ -22,4 +22,5 @@
 ## Asserts
 
 - iris: 1.7.6
+- continuity: 3.0.0
 
