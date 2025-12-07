@@ -1,28 +1,34 @@
-## optimization
+📁 核心与性能优化 (Core & Optimization)
+  - fabric-api: 0.92.6 (核心库)
+  - sodium: 0.7.3 (渲染优化，大幅提升FPS)
+  - lithium: 0.11.4 (服务器逻辑优化)
+  - indium: 1.0.36 (让 Sodium 兼容其他渲染模组)
+  - krypton: 0.2.3 (网络优化)
+  - ferritecore: 6.0.1 (内存占用优化)
+  - Cloth Config API: 11.1.136 (配置文件前置库，Modern-Industrialization 等模组需要)
 
-- fabric-api: 0.92.6
-- lithium: 0.11.4
-- sodium: 0.7.3
-- indium: 1.0.36
-- krypton: 0.2.3
-- ferritecore: 6.0.1
-- lootr: 1.20-0.7.35.86
-- Terralith: 2.5.4
-- YUNG
-- emi: 1.1.22
+⚙️ 工业化与自动化 (Industrialization & Tech)
+- Modern-Industrialization (现代工业化): 1.8.6
+- appliedenergistics2 (应用能源2): 15.4.10
+- Create (机械动力): 6.0.8.0
+  - 附属 - 能源桥梁: Create Crafts & Additions: 1.3.3 (连接 MI/AE2 和 Create)
+  - 附属 - 资源获取: Create Sifting Fabric: 0.1.1 (你想要的“筛子”)
+  - 附属 - 液体经验: Create Enchantment Industry: 1.2.16
+  - 附属 - 铁路增强: Create: Steam 'n' Rails: 1.6.9
+  - 附属 - 装饰: Create: Design n' Decor: 0.4.0
 
-## Industrialization
+🏗️ 建筑与工具 (Building & Tools)
+  - None now
 
-- Create: 6.0.8.0
-  - Create Crafts & Additions: 1.3.3
-  - Create Sifting Fabric: 0.1.1
-- Modern-Industrialization: 1.8.6
-  - Cloth Config API:11.1.136
-- appliedenergistics2: 15.4.10
-- FarmersDelight: 2.4.1
+🌍 世界生成与探索 (World & Exploration)
+- Terralith: 2.5.4 (全新的地形生成，无需新方块)
+- YUNG's Mods: (包括更好的矿洞、要塞等结构优化)
+- lootr: 1.20-0.7.35.86 (每个玩家都有独立战利品的宝箱，适合多人服务器)
 
-## Asserts
+🌾 游戏性与生活质量 (Gameplay & QoL)
+  - FarmersDelight (农夫乐事): 2.4.1 (更好的烹饪和农业)
+  - emi: 1.1.22 (物品管理器，查看配方用，类似 JEI)
 
-- iris: 1.7.6
-- continuity: 3.0.0
-
+🎨 视觉与资源 (Visuals)
+  - iris: 1.7.6 (光影支持)
+  - continuity: 3.0.0 (连接纹理，就是让玻璃连在一起的那种效果)
