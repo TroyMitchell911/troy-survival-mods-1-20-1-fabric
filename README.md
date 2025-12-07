@@ -18,7 +18,7 @@
   - 附属 - 装饰: Create: Design n' Decor: 0.4.0
 
 🏗️ 建筑与工具 (Building & Tools)
-  - None now
+  - Adorn: 5.0.1 (家具)
 
 🌍 世界生成与探索 (World & Exploration)
 - Terralith: 2.5.4 (全新的地形生成，无需新方块)
