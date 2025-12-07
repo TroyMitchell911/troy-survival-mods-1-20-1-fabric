@@ -14,6 +14,8 @@
 ## Industrialization
 
 - Create: 6.0.8.0
+  - Create Crafts & Additions: 1.3.3
+  - Create Sifting Fabric: 0.1.1
 - Modern-Industrialization: 1.8.6
   - Cloth Config API:11.1.136
 - appliedenergistics2: 15.4.10
