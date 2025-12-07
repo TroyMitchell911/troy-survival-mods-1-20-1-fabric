@@ -29,6 +29,7 @@
   - FarmersDelight (农夫乐事): 2.4.1 (更好的烹饪和农业)
   - Hybrid Aquatic: (混合水域): 1.5.3 (为水下增加了更多生物)
   - Fish of Thieves: 3.1.7 (盗贼之海的鱼，增加更多鱼类)
+  - add Critters and Companions: 2.3.5 (增加新的动物)
   - emi: 1.1.22 (物品管理器，查看配方用，类似 JEI)
 
 🎨 视觉与资源 (Visuals)
