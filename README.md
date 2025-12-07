@@ -19,7 +19,7 @@
 
 🏗️ 建筑与工具 (Building & Tools)
   - Adorn: 5.0.1 (家具)
-    - Fabric Language Kotlin: Adorn need it
+    - Fabric Language Kotlin: Adorn needs it
 
 🌍 世界生成与探索 (World & Exploration)
 - Terralith: 2.5.4 (全新的地形生成，无需新方块)
@@ -29,6 +29,8 @@
 🌾 游戏性与生活质量 (Gameplay & QoL)
   - FarmersDelight (农夫乐事): 2.4.1 (更好的烹饪和农业)
   - Hybrid Aquatic: (混合水域): 1.5.3 (为水下增加了更多生物)
+    - Geckolib: Hybrid Aquatic needs it
+    - lithostitched: Hybrid Aquatic needs it
   - Fish of Thieves: 3.1.7 (盗贼之海的鱼，增加更多鱼类)
   - add Critters and Companions: 2.3.5 (增加新的动物)
   - emi: 1.1.22 (物品管理器，查看配方用，类似 JEI)
