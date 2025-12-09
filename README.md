@@ -13,9 +13,7 @@
 - Create (机械动力): 0.5.1-j-build.1631
   - 附属 - 能源桥梁: Create Crafts & Additions: 1.2.6 (连接 MI/AE2 和 Create)
   - 附属 - 资源获取: Create Sifting Fabric: 0.1.1 (你想要的“筛子”)
-  - 附属 - 液体经验: Create Enchantment Industry: 1.2.16
   - 附属 - 铁路增强: Create: Steam 'n' Rails: 1.6.9
-  - 附属 - 装饰: Create: Design n' Decor: 0.4.0
 
 🏗️ 建筑与工具 (Building & Tools)
   - Adorn: 5.0.1 (家具)
