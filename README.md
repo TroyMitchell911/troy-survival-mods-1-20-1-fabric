@@ -10,7 +10,7 @@
 ⚙️ 工业化与自动化 (Industrialization & Tech)
 - Modern-Industrialization (现代工业化): 1.8.6
 - appliedenergistics2 (应用能源2): 15.4.10
-- Create (机械动力): 6.0.8.0
+- Create (机械动力): 0.5.1-j-build.1631
   - 附属 - 能源桥梁: Create Crafts & Additions: 1.2.6 (连接 MI/AE2 和 Create)
   - 附属 - 资源获取: Create Sifting Fabric: 0.1.1 (你想要的“筛子”)
   - 附属 - 液体经验: Create Enchantment Industry: 1.2.16
