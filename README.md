@@ -19,6 +19,7 @@
 🏗️ 建筑与工具 (Building & Tools)
   - Adorn: 5.0.1 (家具)
     - Fabric Language Kotlin: Adorn needs it
+  - Mo Glass: 1.7 (玻璃楼梯)
 
 🌍 世界生成与探索 (World & Exploration)
 - Terralith: 2.5.4 (全新的地形生成，无需新方块)
