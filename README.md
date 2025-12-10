@@ -6,6 +6,7 @@
   - krypton: 0.2.3 (网络优化)
   - ferritecore: 6.0.1 (内存占用优化)
   - Cloth Config API: 11.1.136 (配置文件前置库，Modern-Industrialization 等模组需要)
+  - Valkyrien Skies: 2.3.0 beta2 (物理引擎!)
 
 ⚙️ 工业化与自动化 (Industrialization & Tech)
 - Modern-Industrialization (现代工业化): 1.8.6
