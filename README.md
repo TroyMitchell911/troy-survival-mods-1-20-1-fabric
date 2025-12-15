@@ -39,6 +39,7 @@
   - Mob Capturing Tool: 3.0.1 (捕捉生物，类似于 Tinker's Construct 的工具)
   - Storage Drawers: 12.14.3 (存储系统，厌倦了箱子的翻箱倒柜)
   - JustEnoughCharacters: 4.5.16 (支持拼音搜索物品)
+  - Flan: 1.11.15 (创建领地)
 
 🎨 视觉与资源 (Visuals)
   - iris: 1.7.6 (光影支持)
