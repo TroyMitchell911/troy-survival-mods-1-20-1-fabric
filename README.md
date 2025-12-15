@@ -29,6 +29,7 @@
 - lootr: 1.20-0.7.35.86 (每个玩家都有独立战利品的宝箱，适合多人服务器)
 
 🌾 游戏性与生活质量 (Gameplay & QoL)
+  - valkyrienskies: 2.3.0 (真实的物理引擎)
   - FarmersDelight (农夫乐事): 2.4.1 (更好的烹饪和农业)
   - Hybrid Aquatic: (混合水域): 1.5.3 (为水下增加了更多生物)
     - Geckolib: Hybrid Aquatic needs it
