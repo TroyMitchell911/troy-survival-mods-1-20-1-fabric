@@ -7,6 +7,8 @@
   - ferritecore: 6.0.1 (内存占用优化)
   - Cloth Config API: 11.1.136 (配置文件前置库，Modern-Industrialization 等模组需要)
   - starlight: 1.1.2 (重写光照)
+  - servercore: 1.5.2 (优化服务器)
+  - vmp: 0.20.0 (优化服务器同时在线人数)
 
 ⚙️ 工业化与自动化 (Industrialization & Tech)
 - Modern-Industrialization (现代工业化): 1.8.6
