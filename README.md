@@ -33,6 +33,8 @@
 - lootr: 1.20-0.7.35.86 (每个玩家都有独立战利品的宝箱，适合多人服务器)
 
 🌾 游戏性与生活质量 (Gameplay & QoL)
+  - CC: Tweaked: 可编程电脑等
+  - CC: VS: 为可编程电脑加入瓦尔基里API
   - valkyrienskies: 2.3.0-beta.7 (真实的物理引擎)
   - trackwork: 1.1.1b (增加了履带和轮胎等)
   - VS:tournament: 1.1.0_beta-5.3+af35b3821f (绳索，推进器，螺旋桨等)
