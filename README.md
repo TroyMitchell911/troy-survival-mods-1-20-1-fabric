@@ -18,6 +18,7 @@
   - 附属 - 资源获取: Create Sifting Fabric: 0.1.1 (你想要的“筛子”)
     - 沙子+黄铜筛网现在可以筛出硫磺!
   - 附属 - 铁路增强: Create: Steam 'n' Rails: 1.6.9
+  - 附属 - Clockwork: 与valkrienskies一起工作！
 - Powah: 5.0.11 (增加了多种产生、储存和传输能量的方式)
   - architectury-9.2.14
 
