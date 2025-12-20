@@ -37,6 +37,7 @@
   - trackwork: 1.1.1b (增加了履带和轮胎等)
   - tournament: 1.1.0_beta-5.3+af35b3821f (绳索，推进器，螺旋桨等)
   - VMod: 0.0.11 (增加工具枪可以对船调整参数)
+  - ClockworkAdditions: 0.0.6-multiloader (增加了等速万向节传动杆，脚踏板等物品)
   - Eureka: 1.5.1 (创造飞船和船舵)
   - FarmersDelight (农夫乐事): 2.4.1 (更好的烹饪和农业)
   - Hybrid Aquatic: (混合水域): 1.5.3 (为水下增加了更多生物)
