@@ -6,6 +6,7 @@
   - krypton: 0.2.3 (网络优化)
   - ferritecore: 6.0.1 (内存占用优化)
   - Cloth Config API: 11.1.136 (配置文件前置库，Modern-Industrialization 等模组需要)
+  - botarium: 2.3.4 (重要的跨平台API库，部分Create附属和科技模组依赖)
   - starlight: 1.1.2 (重写光照)
   - servercore: 1.5.2 (优化服务器)
   - vmp: 0.20.0 (优化服务器同时在线人数)
@@ -16,6 +17,7 @@
   - 附属 - Applied Energistics 2 Wireless Terminals: 15.4.10 (跨维度无视距离无线终端)
 - Create (机械动力): 0.5.1-j-build.1631
   - 附属 - 能源桥梁: Create Crafts & Additions: 1.2.6 (连接 MI/AE2 和 Create)
+  - 附属 - 电力时代: Create: New Age: 1.1.2 (引入电力系统，增加磁力线圈、电机与太阳能)
   - 附属 - 资源获取: Create Sifting Fabric: 0.1.1 (你想要的“筛子”)
     - 沙子+黄铜筛网现在可以筛出硫磺!
   - 附属 - 铁路增强: Create: Steam 'n' Rails: 1.6.9
