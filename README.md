@@ -28,6 +28,7 @@
   - architectury-9.2.14
 
 🏗️ 建筑与工具 (Building & Tools)
+  - Axiom: 5.2.1 (极强的上帝模式建筑工具，提供3D编辑和实时预览)
   - Adorn: 5.0.1 (家具)
     - Fabric Language Kotlin: Adorn needs it
   - Mo Glass: 1.7 (玻璃楼梯)
