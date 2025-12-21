@@ -19,6 +19,7 @@
   - 附属 - 能源桥梁: Create Crafts & Additions: 1.2.6 (连接 MI/AE2 和 Create)
   - 附属 - 电力时代: Create: New Age: 1.1.2 (引入电力系统，增加磁力线圈、电机与太阳能)
   - 附属 - 互联扩展: Create Connected: 0.7.4 (增加各种实用元件，如并行齿轮箱、复制猫等)
+  - 附属 - 手柄优化: Create Tweaked Controllers: 0.1.0 (优化手柄对机械动力的控制体验)
   - 附属 - 资源获取: Create Sifting Fabric: 0.1.1 (你想要的“筛子”)
     - 沙子+黄铜筛网现在可以筛出硫磺!
   - 附属 - 铁路增强: Create: Steam 'n' Rails: 1.6.9
