@@ -59,6 +59,11 @@
   - JustEnoughCharacters: 4.5.16 (支持拼音搜索物品)
   - Flan: 1.11.15 (创建领地)
   - EasyAuth: 3.4.1 (登陆验证)
+  - Artifacts: 9.5.15 (在世界各地发现具有特殊能力的饰品，需配合 Trinkets 使用)
+  - Trinkets: 3.7.2 (提供额外的饰品栏位，如背部、戒指、项链等)
+  - Sophisticated Backpacks: 3.23.4 (精妙背包：支持多级升级、自动拾取、自动喂食等强大插件功能)
+    - sophisticatedcore: 精妙系列模组的核心库
+  - Traveler's Backpack: 9.1.50 (旅行者背包：自带工作台和流体存储，适合野外探险)
 
 🎨 视觉与资源 (Visuals)
   - iris: 1.7.6 (光影支持)
