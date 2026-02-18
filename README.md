@@ -64,6 +64,7 @@
   - Sophisticated Backpacks: 3.23.4 (精妙背包：支持多级升级、自动拾取、自动喂食等强大插件功能)
     - sophisticatedcore: 精妙系列模组的核心库
   - Traveler's Backpack: 9.1.50 (旅行者背包：自带工作台和流体存储，适合野外探险)
+  - ae2 with emi: 将emi里面的物品放入AE2的合成台
 
 🎨 视觉与资源 (Visuals)
   - iris: 1.7.6 (光影支持)
