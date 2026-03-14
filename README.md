@@ -9,7 +9,6 @@
   - botarium: 2.3.4 (重要的跨平台API库，部分Create附属和科技模组依赖)
   - starlight: 1.1.2 (重写光照)
   - servercore: 1.5.2 (优化服务器)
-  - vmp: 0.20.0 (优化服务器同时在线人数)
 
 ⚙️ 工业化与自动化 (Industrialization & Tech)
 - Modern-Industrialization (现代工业化): 1.8.6
