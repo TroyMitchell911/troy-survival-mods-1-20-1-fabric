@@ -12,6 +12,7 @@
 
 ⚙️ 工业化与自动化 (Industrialization & Tech)
 - Modern-Industrialization (现代工业化): 1.8.6
+  - mi_trinkets_bridge: 1.0.0
 - appliedenergistics2 (应用能源2): 15.4.10
   - 附属 - Applied Energistics 2 Wireless Terminals: 15.4.10 (跨维度无视距离无线终端)
 - Create (机械动力): 0.5.1-j-build.1631
